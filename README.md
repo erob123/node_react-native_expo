@@ -47,7 +47,7 @@ This README.md provides instructions/links for installing & running expo/react-n
       For someone who has a programming background but no JS or react-native knowledge, reading these tutorials/articles will get you going quickly.  You can then start on a small project and continue to learn concepts as required.
     </p>    
     <ol>
-  <li><a href="https://www.w3schools.com/js/default.asp">w3Schools Javascript Tutorial</a>: If you have a programming background, then you should be able to get away with reading the following sections and then referencing everything else as required for new concepts
+  <li><a href="https://www.w3schools.com/js/default.asp">w3Schools Javascript Tutorial</a>: If you have a programming background, then you should be able to get away with reading the following sections and then referencing everything else as required for new concepts:
     <ul>
       <li>Home through Array Iteration</li>
       <li>Math</li>
@@ -56,5 +56,22 @@ This README.md provides instructions/links for installing & running expo/react-n
       <li>ES5</li>
       <li>ES6</li>
     </ul>
-      <li><a href="https://www.raywenderlich.com/485-react-native-tutorial-building-ios-apps-with-javascript">react-native tutorial</a></li>
-    </ol>
+  </li>
+  <li>ES6 specifics:
+    <ul>
+      <li><a href="http://2ality.com/2014/09/es6-modules-final.html">ES6 overview</a>: Read this to get a grasp of how the ES6 syntax works/adds to legacy JS (react-native used ES6).</li>
+      <li><a href="https://javascript.info/class">Classes</a>: Read for more info on JS classes</li>
+      <li><a href="https://stackoverflow.com/questions/36795819/when-should-i-use-curly-braces-for-es6-import?rq=1">When should I use curly braces for ES6 imports?</a></li>
+      <li><a href="https://stackoverflow.com/questions/762011/whats-the-difference-between-using-let-and-var-to-declare-a-variable-in-jav">What is the difference between <code>let</code> and <code>var</code> in javascript ES6?</a></li>
+      <li><a href="https://stackoverflow.com/questions/47146106/why-does-my-javascript-getter-setter-require-underscores">Why does my javascript getter/setter require underscores?</a></li>
+    </ul>
+  </li>
+  <li><a href="https://facebook.github.io/react-native/docs/getting-started">React-native documentation</a>: Read "the basics," then get started and reference as required!</li>
+  <li>Other resources:
+     <ul>
+       <li><a href="https://rationalappdev.com/building-react-native-apps-on-any-platform-without-xcode-or-android-studio/">Expo description from Rational App Dev</a></li>
+       <li><a href="https://rationalappdev.com/">Floating react-native tags</a></li>
+       <li><a href="https://stackoverflow.com/questions/22475849/node-js-what-is-enospc-error-and-how-to-solve/32600959#32600959">Expo keeps failing due to ENOSPC error</a></li>
+    </ul>
+  </li>
+ </ol>
