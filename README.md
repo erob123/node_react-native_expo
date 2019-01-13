@@ -46,6 +46,15 @@ This README.md provides instructions/links for installing & running expo/react-n
     <p>
       For someone who has a programming background but no JS or react-native knowledge, reading these tutorials/articles will get you going quickly.  You can then start on a small project and continue to learn concepts as required.
     </p>    
-    <ol>     
+    <ol>
+  <li><a href="https://www.w3schools.com/js/default.asp">w3Schools Javascript Tutorial</a>: If you have a programming background, then you should be able to get away with reading the following sections and then referencing everything else as required for new concepts
+    <ul>
+      <li>Home through Array Iteration</li>
+      <li>Math</li>
+      <li>Random</li>
+      <li>Strict Mode</li>
+      <li>ES5</li>
+      <li>ES6</li>
+    </ul>
       <li><a href="https://www.raywenderlich.com/485-react-native-tutorial-building-ios-apps-with-javascript">react-native tutorial</a></li>
     </ol>
